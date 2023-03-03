@@ -1,4 +1,4 @@
-subject="        MY Profile "
+subject="         MY Profile"
 name="Syed"
 lastname="Anas"
 designation="student"
@@ -14,5 +14,5 @@ print("designation:",designation)
 print("department:",department)
 print("program:",program)
 print("semester:",semester)
-print("age:",age)
+print("age:", age )
 print("registrationnumber:",registrationnumber)
