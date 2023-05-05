@@ -20,8 +20,8 @@ class Stack():
 
 myStack = Stack()
 print(myStack.push("A"))
-myStack.push("B")
-myStack.push("C")
+print(myStack.push("B"))
+print(myStack.push("C"))
 myStack.push("D")
 a= myStack.pop()
 print (a)
