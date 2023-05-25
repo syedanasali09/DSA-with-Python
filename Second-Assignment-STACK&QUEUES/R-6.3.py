@@ -32,3 +32,4 @@ transfer(S, T)
 
 while not T.is_empty():
     print(T.pop(), end=' ')
+    

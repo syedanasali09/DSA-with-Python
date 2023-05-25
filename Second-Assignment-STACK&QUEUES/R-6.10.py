@@ -6,3 +6,4 @@ def _resize(self, cap):
         self._data[k] = old[k]
         walk = (1 + walk) % len(old)
     self._front = 0
+    

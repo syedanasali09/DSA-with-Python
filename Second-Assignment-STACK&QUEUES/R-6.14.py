@@ -12,3 +12,4 @@ while S:
     D.append(S.pop())
 
 print("Final order of elements in D:", list(D))
+
