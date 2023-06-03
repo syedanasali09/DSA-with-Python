@@ -21,12 +21,12 @@ def kelvin_to_fahrenheit(kelvin):
 # Examples:
 celsius = 32
 fahrenheit = celsius_to_fahrenheit(celsius)
-print(f"{celsius} degrees Celsius is equal to {fahrenheit} degrees Fahrenheit.")
+print(f"{celsius} degrees Celsius = {fahrenheit} degree Fahrenheit.")
 
 kelvin = celsius_to_kelvin(celsius)
-print(f"{celsius} degrees Celsius = {kelvin} Kelvin.")
+print(f"{celsius} degrees Celsius  = {kelvin} Kelvin.")
 
-# You can also convert directly between Fahrenheit and Kelvin:
+# You can also convert directly between  Fahrenheit and Kelvin:
 fahrenheit = 45
 kelvin = fahrenheit_to_kelvin(fahrenheit)
 print(f"{fahrenheit} degrees Fahrenheit = {kelvin} Kelvin.")
